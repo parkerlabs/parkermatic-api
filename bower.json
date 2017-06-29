@@ -1,0 +1,23 @@
+{
+  "name": "automaticator",
+  "version": "0.5.1",
+  "homepage": "https://github.com/Automatic/automaticator",
+  "authors": [
+    "Brendan Nee <brendan@automatic.com>"
+  ],
+  "description": "Automatic API Webhook Demo Application",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.0",
+    "css-spinners": "~1.0.2",
+    "jquery": "~2.1.1",
+    "mapbox.js": "~2.1.5",
+    "moment": "~2.10.2",
+    "polyline": "https://github.com/mapbox/polyline.git#365ed8b1c4507404b5e0d440ebe27417e48edeb0"
+  }
+}
